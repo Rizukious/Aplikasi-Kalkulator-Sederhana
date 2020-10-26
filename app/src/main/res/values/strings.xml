@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Aplikasi Kalkulator - Rizuki</string>
+    <string name="tambah">+</string>
+    <string name="kurang">-</string>
+    <string name="kali">x</string>
+    <string name="bagi">/</string>
+    <string name="clear">C</string>
+    <string name="hasil">Hasil</string>
+    <string name="empty">0</string>
+</resources>
